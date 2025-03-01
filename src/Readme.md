@@ -2,7 +2,6 @@
 
 ## Compilation
 
-### Client
 ```sh
 javac -cp . Client/Client.java
 javac -cp . MainServer/MainServer.java
